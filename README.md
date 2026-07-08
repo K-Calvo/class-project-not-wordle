@@ -15,24 +15,9 @@ The goal of this project was to recreate a web game such as Wordle, Minesweeper,
 This project was completed by:
 
 * Kianny Calvo
-* Teammate 1: <details>
-<summary>Click here to reveal the secret</summary>
-
-Kenneth Acevedo
-
-</details>
-* Teammate 2: <details>
-<summary>Click here to reveal the secret</summary>
-
-Leah Knodel
-
-</details>
-* Teammate 3: <details>
-<summary>Click here to reveal the secret</summary>
-
-Vincent Piazza
-
-</details>
+* Teammate 1: <details> <summary>Click here for name</summary> Kenneth Acevedo </details>
+* Teammate 2: <details> <summary>Click here for name</summary> Leah Knodel </details>
+* Teammate 3: <details> <summary>Click here for name</summary> Vincent Piazza </details>
 
 ## My Contributions
 

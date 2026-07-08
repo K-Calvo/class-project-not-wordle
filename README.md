@@ -1,6 +1,6 @@
-# Class Project - Not Wordle
-
 # ⚠️ PROJECT ARCHIVED / DEPRECATED
+
+# Class Project - Not Wordle
 
 ## Overview
 
